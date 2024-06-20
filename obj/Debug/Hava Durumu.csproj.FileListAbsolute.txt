@@ -1,0 +1,35 @@
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Hava Durumu.exe.config
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Hava Durumu.exe
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Hava Durumu.pdb
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.AssemblyReference.cache
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava_Durumu.Form1.resources
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava_Durumu.Properties.Resources.resources
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.GenerateResource.cache
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.CoreCompileInputs.cache
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.csproj.CopyComplete
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.exe
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\obj\Debug\Hava Durumu.pdb
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\RestSharp.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Buffers.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.CodeDom.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Memory.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Text.Json.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.ValueTuple.dll
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\RestSharp.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Buffers.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.CodeDom.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Memory.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Text.Json.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\agdag\source\repos\Hava Durumu\Hava Durumu\bin\Debug\System.ValueTuple.xml
